@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - qiyu_ly (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - qiyu_ly (from `.symlinks/plugins/qiyu_ly/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  qiyu_ly:
+    :path: ".symlinks/plugins/qiyu_ly/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  qiyu_ly: 956131a9bf2194f6a7e07b99f63f1894439db039
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
